@@ -10,7 +10,7 @@ header {
   position: relative;
   width: 100%;
   /* background: linear-gradient(-135deg, #666666, #222222); */
-  background: linear-gradient(-135deg, #4c646c,#4c646c);
+  background: linear-gradient(-135deg, #4c646c,#fcdcc4);
 }
 
 .head-title {
